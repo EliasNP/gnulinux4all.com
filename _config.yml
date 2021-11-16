@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GNU/Linux 4 All (Linux Para tod@s)
-email: info@gnulinux4all.com
+title: {{ site.title }}
+email: {{ site.email }}
 author: EliasNP
 
 # Copyright setting
