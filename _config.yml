@@ -7,7 +7,7 @@ title: GnuLinux4All
 description: Web del Proyecto de GNU/Linux para Tod@s
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: ""
+baseurl: "/gnulinux4all.com/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
