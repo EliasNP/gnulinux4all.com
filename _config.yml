@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: El Proyecto
 # about_me_description: This will be displayed under the title.
-about_me_description: GnuLinux4All se esta iniciando como un proyecto para la incorporacion de Manuales, Tutoriales y ayudas varias para ayudar e incentivar a la gente a utilizar software de codigo abierto y sistemas operativos libres. \n El software libre NO es una alternativa! \n El software libre es la OPCIÓN \n Es el único sistema que me permite a mi tener el control de mi informática, poder ver que se instala, que cumple con lo que dice.
+about_me_description: GnuLinux4All se esta iniciando como un proyecto para la incorporacion de Manuales, Tutoriales y ayudas varias para ayudar e incentivar a la gente a utilizar software de codigo abierto y sistemas operativos libres. <Br> El software libre NO es una alternativa! <Br> El software libre es la OPCIÓN <Br> Es el único sistema que me permite a mi tener el control de mi informática, poder ver que se instala, que cumple con lo que dice.
 
 # SKILLS SECTION
 # show_skills_card:
